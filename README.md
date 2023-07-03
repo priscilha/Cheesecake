@@ -10,4 +10,3 @@ A combinação de valores mínimos e máximos ajuda a garantir que o texto se aj
 clamp(valor mínimo, valor desejável e valor máximo);
 
 
-![gitcake](https://github.com/priscilha/Cheesecake/assets/81052476/dd304e62-600d-4590-abea-716c2a8040ef)
