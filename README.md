@@ -1,4 +1,4 @@
-# Cheesecake
+# Cheesecake :cake:
 
 Projeto para praticar a função clamp(), com textos responsivos com unidades de viewport.
 
