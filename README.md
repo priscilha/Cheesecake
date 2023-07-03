@@ -10,3 +10,4 @@ A combinação de valores mínimos e máximos ajuda a garantir que o texto se aj
 clamp(valor mínimo, valor desejável e valor máximo);
 
 
+![Uploading gif-cake.gif…]()
