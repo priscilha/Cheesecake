@@ -10,4 +10,5 @@ A combinação de valores mínimos e máximos ajuda a garantir que o texto se aj
 clamp(valor mínimo, valor desejável e valor máximo);
 
 
-![Uploading gif-cake.gif…]()
+
+![gif-cake](https://github.com/priscilha/Cheesecake/assets/81052476/c3e85a0d-ba90-4c52-8643-045b01392625)
